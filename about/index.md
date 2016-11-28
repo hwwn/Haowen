@@ -2,7 +2,7 @@
 layout: page
 title: Hello | Bonjour | 嗨 
 image:
-  feature: abstract-12.jpg
+  feature: abstract-3.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
@@ -40,7 +40,7 @@ modified: 2016-08-07
 <div style="margin: 40px 0 40px 0;"></div>	
 
 
-### Trouvez plus d'information dans le PDF ci-joint :blush:
+### &emsp;&emsp; Trouvez plus d'information dans le PDF ci-joint:
 
 
 <div markdown="0">
