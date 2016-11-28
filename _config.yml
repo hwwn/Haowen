@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            hwwn | Haowen's Page
+description:      This is Haowen (hwwn)'s personal page. </Peace>
+disqus_shortname: hwwn
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Haowen LIU
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Born in Shanghai, living in France, a student in Webmarketing, Computer Science, Economics & French..."
+  email:          hwwn@live.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/hwwn
   stackexchange:  
-  linkedin:       
+  linkedin:       http://www.linkedin.com/in/liu-haowen    
   instagram:      
   flickr:         
   tumblr:         
@@ -35,8 +35,8 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false  # publish future dated posts --  true, false (default) 
+timezone:    Europe/Paris
+future:      true  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
 gems:
