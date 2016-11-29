@@ -45,7 +45,7 @@ modified: 2016-08-07
 
 <div markdown="0">
 	<div style="margin: 30px 0 50px 0;">
-		<iframe src="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21910830&authkey=AOaSH9BaeAlrWRc&em=2" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+		<iframe src="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21910830&authkey=AOaSH9BaeAlrWRc&em=2" width="450" height="300" frameborder="0" scrolling="no"></iframe>
 	</div>	
 
 	<div style="margin: 0 30px; display: inline-block;">
@@ -53,6 +53,6 @@ modified: 2016-08-07
 	</div>
 		
 	<div style="margin: 0 20px; display: inline-block;">
-		<a href="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21910830&authkey=AOaSH9BaeAlrWRc&em=2" class="btn btn-success"> &ensp; Download my CV &ensp; </a>
+		<a href="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21910830&authkey=AOaSH9BaeAlrWRc&em=2" class="btn btn-success"> &ensp; Download my CV &emsp; </a>
 	</div>
 </div>
