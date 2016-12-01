@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/</loc>
+<lastmod>2016-10-30T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/windows10-update-error-0X80070002-0X20007-ZH/</loc>
+<lastmod>2016-10-29T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/deyi-01/</loc>
+<lastmod>2015-12-05T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/chunfeng-01/</loc>
+<lastmod>2015-12-05T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about-chunfeng-and-deyi/</loc>
+<lastmod>2015-12-01T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/background-image/</loc>
 <lastmod>2013-10-26T00:00:00+01:00</lastmod>
 </url>
