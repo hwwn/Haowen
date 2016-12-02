@@ -129,10 +129,6 @@
 <article class="hentry">
   <header>
     
-      <div class="entry-image-index">
-        <a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/" title="Windows 10 Update error 0X80070002-0X20007"><img src="http://localhost:4000/images/abstract-7.jpg" alt="Windows 10 Update error 0X80070002-0X20007"></a>
-      </div><!-- /.entry-image -->
-    
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="2016-10-30T00:00:00+01:00"><a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/">October 30, 2016</a></time></span><span class="author vcard"><span class="fn"><a href="http://localhost:4000/about/" title="About Haowen LIU">Haowen LIU</a></span></span>
       
@@ -156,10 +152,6 @@ Reading time ~1 minute
 <article class="hentry">
   <header>
     
-      <div class="entry-image-index">
-        <a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-ZH/" title="Windows 10 更新 错误 0X80070002-0X20007"><img src="http://localhost:4000/images/abstract-7.jpg" alt="Windows 10 更新 错误 0X80070002-0X20007"></a>
-      </div><!-- /.entry-image -->
-    
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="2016-10-29T00:00:00+01:00"><a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-ZH/">October 29, 2016</a></time></span><span class="author vcard"><span class="fn"><a href="http://localhost:4000/about/" title="About Haowen LIU">Haowen LIU</a></span></span>
       
@@ -175,7 +167,37 @@ Reading time ~1 minute
     
   </header>
   <div class="entry-content">
-    <p>Here be a sample post with a custom background image. To utilize this “feature” just add the following YAML to a post’s front matter.</p>
+    <p>按照步骤操作后依然无效，不仅如此，昨天我甚至忍心选择 Win10的重置功能，希望修复这个问题<br />
+谁知道竟然重置都不可以，遇到了同样的问题，和手动用易升或者 MediaCreationTool 一样<br />
+都是在重启安装到 9%的时候，突然停止了，跳出界面说：正在回到之前的系统<br />
+然后回到现在的 Win10 1511正式版本</p>
+
+<blockquote>
+  <p>注：我的电脑只有一个C盘分区<br />
+MediaCreationTool 装完失败，以后开机显示的窗口出现：<br />
+          0x80070002-0x20007<br />
+          L’installation a échoué dans la phrase SAFE_OS avec une erreur lors de l’opérateur INSTALL_DRIVERS<br />
+          (法语翻译过来是：在INSTALL_DRIVERS操作的过程中，安装在SAFE_OS这里出现一个错误)</p>
+</blockquote>
+
+<figure>
+	<a href="https://twktjq.bn1303.livefilestore.com/y3mwBHzUpKIHoa8oNC5Pv972PYgubMvjvUT4vN9sa-2bRUCv2X-SdXeCtLifbpU4hC3Imcy8e2bqIk38OvKP7ERgokvmCsIZo0c_9BTCviofR2WmZOOF2PuVRitQjX45X6KRx5kj9pFKm_AyR57Mhh4rUe4c9q0b2bLqDarFBOWIbE?width=2736&amp;height=1824&amp;cropmode=none">
+		<img src="https://twktjq.bn1303.livefilestore.com/y3mwBHzUpKIHoa8oNC5Pv972PYgubMvjvUT4vN9sa-2bRUCv2X-SdXeCtLifbpU4hC3Imcy8e2bqIk38OvKP7ERgokvmCsIZo0c_9BTCviofR2WmZOOF2PuVRitQjX45X6KRx5kj9pFKm_AyR57Mhh4rUe4c9q0b2bLqDarFBOWIbE?width=2736&amp;height=1824&amp;cropmode=none" alt="" />
+	</a>
+	<figcaption>
+		<a href="https://twktjq.bn1303.livefilestore.com/y3pE-uaS0X1itCxPd7SUhEqLlJtKmm4BUlG6ZmyuQJ0wV7mBQCInUixvQPaVRSJp-krVbyM7mNdixTnylXPf_1ZoRSixafThZQ67haKmVnXRmuBx47KWPsfaPKoSnHMShKF8c__Uwg4XSRSJ0ojDzkoxCHDjhulQ1472NcjpuXj7kQ/%E9%94%99%E8%AF%AF%E6%88%AA%E5%B1%8F.png?psid=1" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.
+	</figcaption>
+</figure>
+
+<p>Win键+R-services.msc-Windows Update-<br />
+将启动类型改为“禁用”，点击“服务状态”下面的“停止”按钮<br />
+C:\Windows\SoftwareDistribution\Download删除里面文件<br />
+C:\Windows\SoftwareDistribution\DataStore删除里面文件<br />
+-重命名C:\Windows\SoftwareDistribution文件夹为SDfolder-重命名完成后重新启动Windows Update服务<br />
+（调整启动类型并开启服务）<br />
+ 
+Win键+R输入msconfig-服务-隐藏所有Microsoft服务-全部禁用-重启<br />
+然后尝试更新</p>
 
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
@@ -343,6 +365,18 @@ Reading time ~1 minute
 <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="http://localhost:4000/assets/js/scripts.min.js"></script>
 
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88373810-1', 'auto');  
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
 
 
           
