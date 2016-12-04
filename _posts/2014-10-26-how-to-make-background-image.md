@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Post with a Background Image
+title: How to make Background Image
 description: "Sample post with a background image CSS override."
-tags: [jekyll setup, background]
+tags: [setup post, background]
 image:
-  background: triangular.png
+  background: congruent_pentagon.png
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+Here be a sample post with a custom background image.   
+To use this "feature" just add the following YAML to a post's front matter.
 
 ```yaml
 image:

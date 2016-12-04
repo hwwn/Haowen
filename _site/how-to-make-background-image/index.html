@@ -5,25 +5,25 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>A Post with a Video &#8211; hwwn | Haowen's Page</title>
-<meta name="description" content="Custom written post descriptions are the way to go... if you're not lazy.">
-<meta name="keywords" content="sample post, video">
+<title>How to make Background Image &#8211; hwwn | Haowen's Page</title>
+<meta name="description" content="Sample post with a background image CSS override.">
+<meta name="keywords" content="setup post, background">
 
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="A Post with a Video">
-<meta property="og:description" content="Custom written post descriptions are the way to go... if you're not lazy.">
-<meta property="og:url" content="http://localhost:4000/video-post/">
+<meta property="og:title" content="How to make Background Image">
+<meta property="og:description" content="Sample post with a background image CSS override.">
+<meta property="og:url" content="http://localhost:4000/how-to-make-background-image/">
 <meta property="og:site_name" content="hwwn | Haowen's Page">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/video-post/">
+<link rel="canonical" href="http://localhost:4000/how-to-make-background-image/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="hwwn | Haowen's Page Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -58,7 +58,7 @@
 
 
 
-<style type="text/css">body {background-image:url(http://localhost:4000/images/ignasi_pattern_s.png);}</style>
+<style type="text/css">body {background-image:url(http://localhost:4000/images/congruent_pentagon.png);}</style>
 
 
 </head>
@@ -116,9 +116,9 @@
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="http://localhost:4000/video-post/" rel="bookmark" title="A Post with a Video">A Post with a Video</a></h1>
+          <h1 class="entry-title"><a href="http://localhost:4000/how-to-make-background-image/" rel="bookmark" title="How to make Background Image">How to make Background Image</a></h1>
         
-        <h2><span class="entry-date date published"><time datetime="2013-06-25T00:00:00+01:00">June 25, 2013</time></span></h2>
+        <h2><span class="entry-date date published"><time datetime="2014-10-26T00:00:00+01:00">October 26, 2014</time></span></h2>
         
         <p class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
@@ -129,22 +129,28 @@ Reading time ~1 minute
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
-      <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"></iframe>
+      <p>Here be a sample post with a custom background image. <br />
+To use this “feature” just add the following YAML to a post’s front matter.</p>
 
-<p>Video embeds are responsive and scale with the width of the main content block with the help of <a href="http://fitvidsjs.com/">FitVids</a>.</p>
-
-<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;iframe</span> <span class="na">width=</span><span class="s">"560"</span> <span class="na">height=</span><span class="s">"315"</span> <span class="na">src=</span><span class="s">"//www.youtube.com/embed/SU3kYxJmWuQ"</span> <span class="na">frameborder=</span><span class="s">"0"</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="s">image</span><span class="pi">:</span>
+  <span class="s">background</span><span class="pi">:</span> <span class="s">filename.png</span>
 </code></pre>
 </div>
 
+<p>This little bit of YAML makes the assumption that your background image asset is in the <code class="highlighter-rouge">/images</code> folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.</p>
+
+<p>If you want to set a background image for the entire site just add <code class="highlighter-rouge">background: filename.png</code> to your <code class="highlighter-rouge">_config.yml</code> and BOOM — background images on every page!</p>
+
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Background images from <span property="dct:title">Subtle Patterns</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://subtlepatterns.com">Subtle Patterns</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+
       <footer class="entry-meta">
-        <span class="entry-tags"><a href="http://localhost:4000/tags/#sample post" title="Pages tagged sample post" class="tag"><span class="term">sample post</span></a><a href="http://localhost:4000/tags/#video" title="Pages tagged video" class="tag"><span class="term">video</span></a></span>
+        <span class="entry-tags"><a href="http://localhost:4000/tags/#setup post" title="Pages tagged setup post" class="tag"><span class="term">setup post</span></a><a href="http://localhost:4000/tags/#background" title="Pages tagged background" class="tag"><span class="term">background</span></a></span>
         
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/video-post/" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://localhost:4000/video-post/" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=http://localhost:4000/video-post/" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/how-to-make-background-image/" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=http://localhost:4000/how-to-make-background-image/" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=http://localhost:4000/how-to-make-background-image/" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
   </ul>
 </div><!-- /.social-share -->
       </footer>
@@ -153,11 +159,11 @@ Reading time ~1 minute
     <div class="read-more">
   
     <div class="read-more-header">
-      <a href="http://localhost:4000/readability-feature-post/" class="read-more-btn">Read More</a>
+      <a href="http://localhost:4000/sample-link-post/" class="read-more-btn">Read More</a>
     </div><!-- /.read-more-header -->
     <div class="read-more-content">
       <h3><a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/" title="Windows 10 Update error 0X80070002-0X20007">Windows 10 Update error 0X80070002-0X20007</a></h3>
-      <p>Sample post with a background image CSS override. <a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/">Continue reading</a></p>
+      <p>Windows 10 Update error 0X80070002-0X20007 Solutions <a href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/">Continue reading</a></p>
     </div><!-- /.read-more-content -->
   
   <div class="read-more-list">
