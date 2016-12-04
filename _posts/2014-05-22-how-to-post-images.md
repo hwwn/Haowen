@@ -93,8 +93,8 @@ Available values: [1..3].
 It will look something like this:
 
 {% capture images %}
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
+	/images/abstract-2.jpg
+	/images/abstract-7.jpg
 	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
