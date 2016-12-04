@@ -24,6 +24,9 @@ modified: 2015-10-30
 故事已经在心里  
 而小说还在路上  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ———— 2015年 10月30日 &nbsp;好文文
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ———— 2015年 10月30日 &nbsp;好文文  
+  
+<figure style="margin: 30px 0 50px 0;">
+	<a href="https://farm8.staticflickr.com/7069/6815445970_340e9a4994_h.jpg"><img src="https://farm8.staticflickr.com/7069/6815445970_340e9a4994_h.jpg" alt=""></a>
+	<figcaption style="float: right;"> "cat street" _from flickr_by hugo poon </figcaption>
+</figure>
