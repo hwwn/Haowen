@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-04T23:30:56+00:00</updated><id>http://localhost:4000//</id><title type="html">hwwn | Haowen’s Page</title><subtitle>This is Haowen (hwwn)'s personal page. &lt;/Peace&gt;</subtitle><entry><title type="html">Windows 10 Update error 0X80070002-0X20007</title><link href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/" rel="alternate" type="text/html" title="Windows 10 Update error 0X80070002-0X20007" /><published>2016-10-30T00:00:00+01:00</published><updated>2016-10-30T00:00:00+01:00</updated><id>http://localhost:4000/windows10-update-error-0X80070002-0X20007-En</id><content type="html" xml:base="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/">&lt;p&gt;In the early September, my Surface Pro 4 has received the update 1607 for Win10. But as it failed to install the update at the first time, I have never receive it again.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-05T00:58:08+00:00</updated><id>http://localhost:4000//</id><title type="html">hwwn | Haowen’s Page</title><subtitle>This is Haowen (hwwn)'s personal page. &lt;/Peace&gt;</subtitle><entry><title type="html">【置顶】 关于评论版块</title><link href="http://localhost:4000/before-all-about-comments-for-chinese-reader/" rel="alternate" type="text/html" title="【置顶】 关于评论版块" /><published>2046-12-31T00:00:00+00:00</published><updated>2046-12-31T00:00:00+00:00</updated><id>http://localhost:4000/before-all-about-comments-for-chinese-reader</id><content type="html" xml:base="http://localhost:4000/before-all-about-comments-for-chinese-reader/">&lt;p&gt;在开始浏览时，我希望你能先阅读这篇，尤其是中文用户，&amp;lt;/PEACE&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;这篇被我置顶的文章并不是这个个人站的简介&lt;/p&gt;
+
+&lt;p&gt;这个站点的每一篇文章，就是每一篇 &lt;strong&gt;Post&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我都开放了 &lt;strong&gt;评论功能&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;但是，由于各种原因，我选择了 &lt;strong&gt;Disqus&lt;/strong&gt; 作为评论的插件&lt;/p&gt;
+
+&lt;p&gt;正常情况下大家可以在 &lt;strong&gt;文章内容&lt;/strong&gt;
+和 &lt;strong&gt;Read More&lt;/strong&gt; 之间看到一块评论区&lt;/p&gt;
+
+&lt;p&gt;如下图所示：&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://c5.staticflickr.com/6/5576/30602727164_3c0c36cd1a_h.jpg&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/6/5576/30602727164_3c0c36cd1a_h.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;各板块截图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://c3.staticflickr.com/6/5588/31279206922_5dc60f7ae7_b.jpg&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/6/5588/31279206922_5dc60f7ae7_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;评论区截图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;但是 &lt;strong&gt;Disqus&lt;/strong&gt; 在大陆是时不时会被墙掉的，完全看运气&lt;/p&gt;
+
+&lt;p&gt;由于  &lt;strong&gt;Disqus&lt;/strong&gt; 使用很方便，可以选择评论对我或大家可见&lt;/p&gt;
+
+&lt;p&gt;甚至可以直接用 &lt;strong&gt;Disqus&lt;/strong&gt; 加我好友&lt;/p&gt;
+
+&lt;p&gt;而现在翻墙成本不是很大，随随便便就能找到 &lt;strong&gt;VPN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;所以希望直接在某篇文章让我看到留言的 &lt;strong&gt;请先 VPN 下&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;发送邮件&quot;&gt;发送邮件：&lt;/h2&gt;
+
+&lt;p&gt;当然你也可以点击左上角的 &lt;code class=&quot;highlighter-rouge&quot;&gt;汉堡菜单&lt;/code&gt;
+&lt;img src=&quot;https://c5.staticflickr.com/6/5588/31279614812_797a1d0d80_t.jpg&quot; width=&quot;65&quot; height=&quot;67&quot; alt=&quot;汉堡菜单&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;点击 &lt;code class=&quot;highlighter-rouge&quot;&gt;About&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;然后点击 &lt;code class=&quot;highlighter-rouge&quot;&gt;Email&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;给我发邮件留言， &amp;lt;/PEACE&amp;gt;&lt;/p&gt;</content><category term="关于" /><category term="评论功能" /><summary type="html">在开始浏览时，我希望你能先阅读这篇，尤其是中文用户，&amp;lt;/PEACE&amp;gt;</summary></entry><entry><title type="html">Windows 10 Update error 0X80070002-0X20007</title><link href="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/" rel="alternate" type="text/html" title="Windows 10 Update error 0X80070002-0X20007" /><published>2016-10-30T00:00:00+01:00</published><updated>2016-10-30T00:00:00+01:00</updated><id>http://localhost:4000/windows10-update-error-0X80070002-0X20007-En</id><content type="html" xml:base="http://localhost:4000/windows10-update-error-0X80070002-0X20007-En/">&lt;p&gt;In the early September, my Surface Pro 4 has received the update 1607 for Win10. But as it failed to install the update at the first time, I have never receive it again.&lt;/p&gt;
 
 &lt;p&gt;For the reason, I had tried all the methods online but nothing helpful.&lt;/p&gt;
 
@@ -390,136 +434,4 @@ Available values: [1..3].&lt;/li&gt;
     &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
     
     &lt;figcaption&gt;Test images&lt;/figcaption&gt;
-&lt;/figure&gt;</content><category term="setup post" /><category term="images" /><summary type="html">Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption.</summary></entry><entry><title type="html">How to write a post with Markdown</title><link href="http://localhost:4000/how-to-write-a-post/" rel="alternate" type="text/html" title="How to write a post with Markdown" /><published>2013-03-10T00:00:00+00:00</published><updated>2013-03-10T00:00:00+00:00</updated><id>http://localhost:4000/how-to-write-a-post</id><content type="html" xml:base="http://localhost:4000/how-to-write-a-post/">&lt;p&gt;Below is just about everything you’ll need to style in the theme.&lt;br /&gt;
-Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
-&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;body-text&quot;&gt;Body text&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/back2.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;p&gt;HTML and &lt;abbr title=&quot;cascading stylesheets&quot;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/abbr&gt;&lt;/abbr&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item one
-    &lt;ol&gt;
-      &lt;li&gt;sub item one&lt;/li&gt;
-      &lt;li&gt;sub item two&lt;/li&gt;
-      &lt;li&gt;sub item three&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Item one&lt;/li&gt;
-  &lt;li&gt;Item two&lt;/li&gt;
-  &lt;li&gt;Item three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table rules=&quot;groups&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
-
-&lt;p&gt;Syntax highlighting via Rouge&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Non Pygments code example&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;</content><category term="setup post" /><category term="Markdown" /><summary type="html">Below is just about everything you’ll need to style in the theme.
-Check the source code to see the many embedded elements within paragraphs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22abstract-2.jpg%22,%20%22credit%22=%3E%22dargadgetz%22,%20%22creditlink%22=%3E%22http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/%22%7D" /></entry></feed>
+&lt;/figure&gt;</content><category term="setup post" /><category term="images" /><summary type="html">Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption.</summary></entry></feed>
