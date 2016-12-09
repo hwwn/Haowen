@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-05T01:44:44+00:00</updated><id>http://localhost:4000//</id><title type="html">hwwn | Haowen’s Page</title><subtitle>This is Haowen (hwwn)'s personal page. &lt;/Peace&gt;</subtitle><entry><title type="html">【置顶】 关于评论版块</title><link href="http://localhost:4000/before-all-about-comments-for-chinese-reader/" rel="alternate" type="text/html" title="【置顶】 关于评论版块" /><published>2046-12-31T00:00:00+00:00</published><updated>2046-12-31T00:00:00+00:00</updated><id>http://localhost:4000/before-all-about-comments-for-chinese-reader</id><content type="html" xml:base="http://localhost:4000/before-all-about-comments-for-chinese-reader/">&lt;p&gt;在开始浏览时，我希望你能先阅读这篇，尤其是中文用户，&amp;lt;/PEACE&amp;gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-09T00:47:50+00:00</updated><id>http://localhost:4000//</id><title type="html">hwwn | Haowen’s Page</title><subtitle>This is Haowen (hwwn)'s personal page. &lt;/Peace&gt;</subtitle><entry><title type="html">【置顶】 关于评论版块</title><link href="http://localhost:4000/before-all-about-comments-for-chinese-reader/" rel="alternate" type="text/html" title="【置顶】 关于评论版块" /><published>2046-12-31T00:00:00+00:00</published><updated>2046-12-31T00:00:00+00:00</updated><id>http://localhost:4000/before-all-about-comments-for-chinese-reader</id><content type="html" xml:base="http://localhost:4000/before-all-about-comments-for-chinese-reader/">&lt;p&gt;在开始浏览时，我希望你能先阅读这篇，尤其是中文用户，&amp;lt;/PEACE&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;这篇被我置顶的文章并不是这个个人站的简介&lt;/p&gt;
 
@@ -190,7 +190,68 @@ Sfc /scannow&lt;br /&gt;
 MediaCreationTool 装完失败，以后开机显示的窗口出现：
           0x80070002-0x20007
           L’installation a échoué dans la phrase SAFE_OS avec une erreur lors de l’opérateur INSTALL_DRIVERS
-          (法语翻译过来是：在 INSTALL_DRIVERS 操作的过程中，安装到 SAFE_OS 这里出现一个错误)</summary></entry><entry><title type="html">《—— 得意》 （一）</title><link href="http://localhost:4000/deyi-01/" rel="alternate" type="text/html" title="《—— 得意》 （一）" /><published>2015-12-05T00:00:00+00:00</published><updated>2015-12-05T00:00:00+00:00</updated><id>http://localhost:4000/deyi-01</id><content type="html" xml:base="http://localhost:4000/deyi-01/">&lt;blockquote&gt;
+          (法语翻译过来是：在 INSTALL_DRIVERS 操作的过程中，安装到 SAFE_OS 这里出现一个错误)</summary></entry><entry><title type="html">My UI Design - 2015 - 我的UI作品（下）</title><link href="http://localhost:4000/my-ui-design-3/" rel="alternate" type="text/html" title="My UI Design - 2015 - 我的UI作品（下）" /><published>2016-01-03T00:00:00+00:00</published><updated>2016-01-03T00:00:00+00:00</updated><id>http://localhost:4000/my-ui-design-3</id><content type="html" xml:base="http://localhost:4000/my-ui-design-3/">&lt;p&gt;With the 3rd version, I focus on the mobile platform. I made my page more suitable for a pad or a smartphone, and created different show case for different situation.&lt;/p&gt;
+
+&lt;p&gt;第三部分，我将注意力转移到了移动端，我让设计出的页面将来能够更加适合平板或者手机屏幕。并且我为不同的场景设计了不同的方案。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This time you can find the setting and menu on the left side and online people which means contact on the right side. Personal profile can be show on the top-middle with location map, friends’photos etc. And of course there is your timeline below.&lt;br /&gt;
+这次你可以在主页面上看到左侧的设置等菜单选项，右侧有在线朋友等联系人。在中间的上方是你的一些信息，有你的照片，你的位置地图，你的朋友们等等。当然，下方是最主要的部分，你的分享。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure style=&quot;margin: 30px 0 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c2.staticflickr.com/1/28/30706113873_211d4c1cd1_b.jpg&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/28/30706113873_211d4c1cd1_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Main Page | 首页效果图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have made a Day-mode and a Night-mode for the Picture Flow page, you can see the difference between them. You can also choose to hide or show the Side Menu, see the last picture.&lt;br /&gt;
+我为图片流页面做了一个日间模式和一个夜间模式，你能发现它们之间的区别。你也能选择隐藏或显示侧边栏菜单，你可以看最后一张图片。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure style=&quot;margin: 30px 0 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c6.staticflickr.com/1/200/31399716501_46d106a51a_b.jpg&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/1/200/31399716501_46d106a51a_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Picture Flow(Day mode) | 图片展示流（白天模式）&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;margin: 30px 0 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c8.staticflickr.com/1/288/31399715551_080a4c127d_b.jpg&quot;&gt;&lt;img src=&quot;https://c8.staticflickr.com/1/288/31399715551_080a4c127d_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Picture Flow(Night mode) | 图片展示流（夜间模式）&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;margin: 30px 0 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c2.staticflickr.com/1/725/31399719761_c8d2508081_b.jpg&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/725/31399719761_c8d2508081_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Picture Flow with Side bar | 图片流菜单显示状态&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="My portfolio" /><category term="我的作品" /><category term="UI" /><category term="Design" /><summary type="html">With the 3rd version, I focus on the mobile platform. I made my page more suitable for a pad or a smartphone, and created different show case for different situation.</summary></entry><entry><title type="html">My UI Design - 2015 - 我的UI作品（中）</title><link href="http://localhost:4000/my-ui-design-2/" rel="alternate" type="text/html" title="My UI Design - 2015 - 我的UI作品（中）" /><published>2016-01-02T00:00:00+00:00</published><updated>2016-01-02T00:00:00+00:00</updated><id>http://localhost:4000/my-ui-design-2</id><content type="html" xml:base="http://localhost:4000/my-ui-design-2/">&lt;p&gt;Here is the second version and 2nd part of the protofolio. After a great change of the UI design. It becomes more readable and esay to code with HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;这是我设计的第二个版本，通过彻底的改进，这个版本的可读性更好，并且更加容易通过 HTML 和 CSS 来实现。&lt;/p&gt;
+
+&lt;figure style=&quot;margin: 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c5.staticflickr.com/1/135/31477392796_4016b51042_k.jpg&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/1/135/31477392796_4016b51042_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Main Page V2.0 | 首页效果图 V2.0&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="My portfolio" /><category term="我的作品" /><category term="UI" /><category term="Design" /><summary type="html">Here is the second version and 2nd part of the protofolio. After a great change of the UI design. It becomes more readable and esay to code with HTML and CSS.</summary></entry><entry><title type="html">My UI Design - 2015 - 我的UI作品（上）</title><link href="http://localhost:4000/my-ui-design-1/" rel="alternate" type="text/html" title="My UI Design - 2015 - 我的UI作品（上）" /><published>2016-01-01T00:00:00+00:00</published><updated>2016-01-01T00:00:00+00:00</updated><id>http://localhost:4000/my-ui-design-1</id><content type="html" xml:base="http://localhost:4000/my-ui-design-1/">&lt;p&gt;I have made this portfolio in the early summer 2015. This is a UI design work for a start-up platform. The aim of the platform was to help students go further and study abroad.&lt;/p&gt;
+
+&lt;p&gt;这是我在 2015 年夏天给一个初创平台做的一套 UI设计，这个平台当初是给留学生用的。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here is the first part and first version of the UI Design which was much more like a imagination. Because it’s hard to be realized by code.&lt;br /&gt;
+这是我设计的第一部分，也是我设计的第一个版本，这个版本更像是我单纯的想象，因为依据这个设计是很难用代码实现的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure style=&quot;margin: 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c1.staticflickr.com/1/473/31368598392_5e3333424f_k.jpg&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/473/31368598392_5e3333424f_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Main Page | 首页效果图&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I added a notifiction bar to the second picture, and just it.&lt;br /&gt;
+我在第二张图上加了一个消息的功能区的演示，仅此而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure style=&quot;margin: 30px 0;&quot;&gt;
+	&lt;a href=&quot;https://c7.staticflickr.com/1/351/31144134190_bc62b50eb5_k.jpg&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/1/351/31144134190_bc62b50eb5_k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption style=&quot;float: right;&quot;&gt;Notification Bar | 消息区演示&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="My portfolio" /><category term="我的作品" /><category term="UI" /><category term="Design" /><summary type="html">I have made this portfolio in the early summer 2015. This is a UI design work for a start-up platform. The aim of the platform was to help students go further and study abroad.</summary></entry><entry><title type="html">《—— 得意》 （一）</title><link href="http://localhost:4000/deyi-01/" rel="alternate" type="text/html" title="《—— 得意》 （一）" /><published>2015-12-05T00:00:00+00:00</published><updated>2015-12-05T00:00:00+00:00</updated><id>http://localhost:4000/deyi-01</id><content type="html" xml:base="http://localhost:4000/deyi-01/">&lt;blockquote&gt;
   &lt;p&gt;醒来看一眼表—— 19：49
 按了一下右上角的按钮&lt;br /&gt;
 显示：2016年&lt;/p&gt;
@@ -310,128 +371,4 @@ To use this “feature” just add the following YAML to a post’s front matter
 &lt;p&gt;If you want to set a background image for the entire site just add &lt;code class=&quot;highlighter-rouge&quot;&gt;background: filename.png&lt;/code&gt; to your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and BOOM — background images on every page!&lt;/p&gt;
 
 &lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;</content><category term="setup post" /><category term="background" /><summary type="html">Here be a sample post with a custom background image. 
-To use this “feature” just add the following YAML to a post’s front matter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22background%22=%3E%22congruent_pentagon.png%22%7D" /></entry><entry><title type="html">Sample Link Post</title><link href="http://localhost:4000/sample-link-post/" rel="alternate" type="text/html" title="Sample Link Post" /><published>2014-08-12T00:00:00+01:00</published><updated>2014-08-12T00:00:00+01:00</updated><id>http://localhost:4000/sample-link-post</id><content type="html" xml:base="http://localhost:4000/sample-link-post/">&lt;p&gt;If you want make a &lt;strong&gt;link posts&lt;/strong&gt;.&lt;br /&gt;
-Check out the title of this post.&lt;/p&gt;
-
-&lt;p&gt;See that?&lt;br /&gt;
-This one is different, begin with a little flag.&lt;/p&gt;
-
-&lt;p&gt;To use, just add &lt;code class=&quot;highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
-
-&lt;p&gt;Click this title, it will link to &lt;strong&gt;About me&lt;/strong&gt; page.&lt;/p&gt;</content><category term="setup post" /><category term="link" /><summary type="html">If you want make a link posts.
-Check out the title of this post.
-
-See that?
-This one is different, begin with a little flag.</summary></entry><entry><title type="html">How to post a Video</title><link href="http://localhost:4000/how-to-post-a-video/" rel="alternate" type="text/html" title="How to post a Video" /><published>2014-06-25T00:00:00+01:00</published><updated>2014-06-25T00:00:00+01:00</updated><id>http://localhost:4000/how-to-post-a-video</id><content type="html" xml:base="http://localhost:4000/how-to-post-a-video/">&lt;p&gt;This video updated is a TV ads of my favourate company&lt;br /&gt;
-MicroSoft’s great product : Surface Studio&lt;br /&gt;
-I hope you enjoy it ;)&lt;/p&gt;
-
-&lt;p&gt;But as an example here I only show you how to post a video in the post.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/BzMLA8YIgG0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.youtube.com/embed/BzMLA8YIgG0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;</content><category term="setup post" /><category term="video" /><summary type="html">This video updated is a TV ads of my favourate company
-MicroSoft’s great product : Surface Studio
-I hope you enjoy it ;)</summary></entry><entry><title type="html">How to post the images</title><link href="http://localhost:4000/how-to-post-images/" rel="alternate" type="text/html" title="How to post the images" /><published>2014-05-22T00:00:00+01:00</published><updated>2014-05-22T00:00:00+01:00</updated><id>http://localhost:4000/how-to-post-images</id><content type="html" xml:base="http://localhost:4000/how-to-post-images/">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
-
-&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
-
-&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;
-		&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;&quot; /&gt;
-	&lt;/a&gt;
-	&lt;figcaption&gt;
-		&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.
-	&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;half&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;
-	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;third&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/1200x600.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/600x300.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/1200x600.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/600x300.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/1200x600.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://placehold.it/600x300.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;alternative-way&quot;&gt;Alternative way&lt;/h3&gt;
-
-&lt;p&gt;Another way to achieve the same result is to include &lt;code class=&quot;highlighter-rouge&quot;&gt;gallery&lt;/code&gt; Liquid template. In this case you
-don’t have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.&lt;/p&gt;
-
-&lt;p&gt;Here is the block you might want to use:&lt;/p&gt;
-
-&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;capture&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
-	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
-&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;endcapture&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;caption&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Test images&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;cols&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;caption&lt;/code&gt;: Sets the caption under the gallery (see &lt;code class=&quot;highlighter-rouge&quot;&gt;figcaption&lt;/code&gt; HTML tag above);&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cols&lt;/code&gt;: Sets the number of columns of the gallery.
-Available values: [1..3].&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It will look something like this:&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Test images&lt;/figcaption&gt;
-&lt;/figure&gt;</content><category term="setup post" /><category term="images" /><summary type="html">Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption.</summary></entry></feed>
+To use this “feature” just add the following YAML to a post’s front matter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22background%22=%3E%22congruent_pentagon.png%22%7D" /></entry></feed>
