@@ -8,9 +8,9 @@ modified: 2046-12-31
 ---
 
 在开始浏览前，我希望你能点击这篇得标题，尤其是中文用户，</PEACE>  
-Hi! If you are a English or French reader, just skip this first post. 
+Hi! If you are a English or French reader, just skip this first post.  
 Please continue with my posts below.   
-This post on top of all just wanna explain to my Chinese friends how to use comments in China, tks.
+This post on top of all just wanna explain to my Chinese friends how to use **Disqus** comments in China, tks.
   
 PS: This blog is written in **English**, **Français** and **中文**. </PEACE>
 
