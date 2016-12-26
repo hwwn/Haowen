@@ -7,9 +7,7 @@ modified: 2016-12-25
 ---
 
 2016  &ensp; Merry Christmas  
-
 2016  &ensp; 圣诞快乐  
-
 2016  &ensp; Joyeux Noël  
 
 <figure style="margin: 30px 0px;">
