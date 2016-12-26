@@ -47,11 +47,7 @@ C'est pour ça je vous l'offre comme le petit cadeau de Noël. Espère que vous 
 	</div>	
 
 	<div style="margin: 0 20px; display: inline-block;">
-		<a href="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21949271&authkey=APyM32kqnJTsE9Y&em=2" class="btn btn-warning">Download  &emsp; </a>
-	</div>
-
-	<div style="margin: 0 20px; display: inline-block;">
-		<a href="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21949271&authkey=APyM32kqnJTsE9Y&em=2" class="btn btn-success">下 &emsp; 载 &ensp; </a>
+		<a href="https://onedrive.live.com/embed?cid=835DF42388F91FB8&resid=835DF42388F91FB8%21949271&authkey=APyM32kqnJTsE9Y&em=2" class="btn btn-success">Download &ensp; </a>
 	</div>
 
 	<div style="margin: 0 20px; display: inline-block;">
