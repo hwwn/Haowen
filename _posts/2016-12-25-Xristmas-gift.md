@@ -6,11 +6,9 @@ tags: [Xristmas gift, Cadeau de Noël, 圣诞礼物]
 modified: 2016-12-25
 ---
 
-2016  &ensp; Merry Christmas  
-2016  &ensp; 圣诞快乐  
-2016  &ensp; Joyeux Noël  
+2016  &ensp;Merry Christmas&ensp;|&ensp;圣诞快乐&ensp;|&ensp;Joyeux Noël  
 
-<figure style="margin: 25px 0px;">
+<figure style="margin: 30px 0px;">
 	<a href="https://c7.staticflickr.com/1/498/31035237494_5c15a7def5_h.jpg"><img src="https://c7.staticflickr.com/1/498/31035237494_5c15a7def5_h.jpg" alt=""></a>
 	<figcaption style="float: right;">Dungeons & Dragons | 龙与地下城 </figcaption>
 </figure>
@@ -21,11 +19,13 @@ So today I give you the original one as the Xmas gift with the link below. Hope 
 
 **# Not for resale, for personnal use only #**
   
+
 今年早些时候我发现了个新大陆，<龙与地下城>。 这不是一个游戏这么简单，简直就是件艺术。 也许我很难说清具体是 D&D 里哪一部分最让我着迷。 也许是原版英文的 300 页的游戏规则？ 哈哈， 我不知道。 但是对于那些初学者， 他们也许需要一个基础入门手册  
 
 所以今天我把它作为圣诞小礼物在下面链接里放出来。 希望你们能够爱上 D&D  
 
 <strong># 请勿出售，仅供个人使用 #</strong>
+
 
 Au début de cette année je découvrais un nouveau Monde de 'Dungeons & Dragons'. Ce n'est pas seulement un jeu, il est une magnifique oeuvre d'art. Je crois que c'est dûr pour moi de dire la partie plus tirait. Les 300 pages de régles de jeu écrit en anglais? Peut être, haha, je suis pas sûr. Par contre, pour les débutants, ils ont besoins de D&D Basic Rule Book pour tous commencer.   
 
