@@ -32,7 +32,7 @@ C'est pour ça je vous l'offre comme le petit cadeau de Noël. Espère que vous 
 <div style="margin: 40px 0 40px 0;"></div>	
 
 
-### &emsp;&emsp; Dungeons & Dragons Basic Rule Book | 龙与地下城基本规则
+### Dungeons & Dragons Basic Rule Book | 龙与地下城基本规则
 
 
 <div markdown="0">
