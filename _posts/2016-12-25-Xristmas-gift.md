@@ -6,7 +6,11 @@ tags: [Xristmas gift, Cadeau de Noël, 圣诞礼物]
 modified: 2016-12-25
 ---
 
-2016  &ensp;Merry Christmas&ensp;|&ensp;圣诞快乐&ensp;|&ensp;Joyeux Noël  
+2016  &ensp; Merry Christmas  
+
+2016  &ensp; 圣诞快乐  
+
+2016  &ensp; Joyeux Noël  
 
 <figure style="margin: 30px 0px;">
 	<a href="https://c7.staticflickr.com/1/498/31035237494_5c15a7def5_h.jpg"><img src="https://c7.staticflickr.com/1/498/31035237494_5c15a7def5_h.jpg" alt=""></a>
