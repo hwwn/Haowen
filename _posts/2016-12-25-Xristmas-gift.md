@@ -19,12 +19,14 @@ Early this year I have found a new World in 'Dungeons & Dragons'. It's not only 
 So today I give you the original one as the Xmas gift with the link below. Hope you will fall in love with D&D.  
 **Not for resale, for personnal use only**
   
-今年早些时候我发现了个新大陆，<龙与地下城>。 这不是一个游戏这么简单，简直就是件艺术。 也许我很难说清具体是 D&D 里哪一部分最让我着迷。 也许是原版英文的 300 页的游戏规则？ 哈哈， 我不知道。 但是对于那些初学者， 他们也许需要一个基础入门手册。  
-所以今天我把它作为圣诞小礼物在下面链接里放出来。 希望你们能够爱上 D&D。  
-**请勿出售，仅供个人使用**
+今年早些时候我发现了个新大陆，<龙与地下城>。 这不是一个游戏这么简单，简直就是件艺术。 也许我很难说清具体是 D&D 里哪一部分最让我着迷。 也许是原版英文的 300 页的游戏规则？ 哈哈， 我不知道。 但是对于那些初学者， 他们也许需要一个基础入门手册  
+
+所以今天我把它作为圣诞小礼物在下面链接里放出来。 希望你们能够爱上 D&D  
+
+<strong>请勿出售，仅供个人使用</strong>
 
 Au début de cette année je découvrais un nouveau Monde de 'Dungeons & Dragons'. Ce n'est pas seulement un jeu, il est une magnifique oeuvre d'art. Je crois que c'est dûr pour moi de dire la partie plus tirait. Les 300 pages de régles de jeu écrit en anglais? Peut être, haha, je suis pas sûr. Par contre, pour les débutants, ils ont besoins de D&D Basic Rule Book pour tous commencer.   
-C'est pour ça je vous l'offre comme le petit cadeau de Noël. Espère que vous allez être tomber amoureux de D&D.
+C'est pour ça je vous l'offre comme le petit cadeau de Noël. Espère que vous allez être tomber amoureux de D&D.  
 **Ne pas revendre, pour l'utilisation personnelle**
 
 
